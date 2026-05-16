@@ -12,10 +12,10 @@ I enjoy building projects where I can understand everything happening under the 
 
 <p align="left">
   <a href="https://github.com/JotapeSch">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-JotapeSch-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/jotape.schons?igsh=eTcwMW9hc2ttMmFo&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@jotape.schons-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
