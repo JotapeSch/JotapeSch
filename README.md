@@ -17,7 +17,7 @@ I enjoy building projects where I can understand everything happening under the 
   <a href="https://www.instagram.com/jotape.schons?igsh=eTcwMW9hc2ttMmFo&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-@jotape.schons-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-schons-martins-6395b5379/">
+  <a href="https://www.linkedin.com/in/joão-pedro-schons-martins-6395b5379">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
