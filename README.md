@@ -1,4 +1,4 @@
-# Hi 👋, I'm João Pedro, but you can call me JP
+# Hi 👋, I'm João Pedro Schons
 
 🚀 **CS Student | Backend & System Logic Enthusiast**  
 🇧🇷 Brazil
@@ -16,6 +16,9 @@ I enjoy building projects where I can understand everything happening under the 
   </a>
   <a href="https://www.instagram.com/jotape.schons?igsh=eTcwMW9hc2ttMmFo&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-@jotape.schons-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-schons-martins-6395b5379/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -55,7 +58,7 @@ A high-performance parking lot simulator built strictly in **C**.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JotapeSch&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JotapeSch&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapeSch&layout=compact&theme=tokyonight" />
 </p>
 
