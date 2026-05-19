@@ -40,6 +40,15 @@ A high-performance parking lot simulator built strictly in **C**.
 - **What it shows:** Deep understanding of Data Structures, dynamic memory allocation (`malloc`/`free`), pointer manipulation, and strict business logic (FIFO queues).
 - **Cool feature:** Zero memory leaks and custom CLI dashboard mapping the parking lot state in real-time.
 
+🤖 [DFA Simulator (Simulador de AFD)](https://github.com/JotapeSch/AFD-GERAL)
+
+A dynamic Deterministic Finite Automaton simulator built in **Python**.
+
+* **What it shows:** Seamless transition from low-level C to a high-level language, leveraging data structures like dictionaries (Hash Tables) for O(1) state lookups, list comprehensions, and input sanitization.
+* **Cool feature:** Interactive CLI execution loop that validates transitions and maps the automaton's path state-by-state in real-time.
+
+---
+
 ---
 
 ## 🛠️ Tech Stack
@@ -47,6 +56,7 @@ A high-performance parking lot simulator built strictly in **C**.
 ### Languages & Fundamentals
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
