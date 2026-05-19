@@ -68,8 +68,8 @@ A dynamic Deterministic Finite Automaton simulator built in **Python**.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JotapeSch&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapeSch&layout=compact&theme=tokyonight" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=JotapeSch&show_icons=true&theme=tokyonight" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapeSch&layout=compact&theme=tokyonight" />
 </p>
 
 ---
