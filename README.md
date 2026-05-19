@@ -1,5 +1,6 @@
 # Hi 👋, I'm João Pedro Schons
 
+
 🚀 **CS Student | Backend & System Logic Enthusiast**  
 🇧🇷 Brazil
 
@@ -65,13 +66,6 @@ A dynamic Deterministic Finite Automaton simulator built in **Python**.
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=JotapeSch&show_icons=true&theme=tokyonight" />
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapeSch&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
