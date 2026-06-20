@@ -41,13 +41,20 @@ A high-performance parking lot simulator built strictly in **C**.
 - **What it shows:** Deep understanding of Data Structures, dynamic memory allocation (`malloc`/`free`), pointer manipulation, and strict business logic (FIFO queues).
 - **Cool feature:** Zero memory leaks and custom CLI dashboard mapping the parking lot state in real-time.
 
-🤖 [DFA Simulator (Simulador de AFD)](https://github.com/JotapeSch/AFD-GERAL)
+### 🤖 [Parking Management System](https://github.com/JotapeSch/Parking-Project)
 
 A dynamic Deterministic Finite Automaton simulator built in **Python**.
 
 * **What it shows:** Seamless transition from low-level C to a high-level language, leveraging data structures like dictionaries (Hash Tables) for O(1) state lookups, list comprehensions, and input sanitization.
 * **Cool feature:** Interactive CLI execution loop that validates transitions and maps the automaton's path state-by-state in real-time.
 
+
+### 🌲 [Binary Search Tree Manager-Gerenciador de ABB](https://github.com/JotapeSch/Arvore-de-Busca---INTEIROS).
+
+A high-performance Binary Search Tree manager and visualizer built in C for Linux environments.
+
+* **What it shows:** Deep understanding of memory management, manual pointer manipulation (including double pointers), and efficient binary file serialization using bitfields (int32_t bit manipulation) to optimize disk storage.
+* **Cool feature:** Full implementation of the rigorous Cormen (CLRS) Tree-Delete algorithm for node removal without using parent pointers, coupled with a real-time terminal visualizer driven by the ncurses library.
 ---
 
 ---
